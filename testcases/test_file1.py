@@ -21,8 +21,8 @@ from selenium.webdriver.common.by import By
 ## open folder project->hit git bash here->git init (command.local to global transfer)
 ## git remote add origin ( paste generated command)->git config --global user.name "rohit8622"
 ##git config --global user.email "rohitpanchal750700@gmail.com"->git status(red files i.e not in global repo)->
-## git add -A(add file to staging temp file before load to global repo)->git commit -m "first commit"(select files to upload to github repo)->
-## git status
+## git add -A(add file to staging temp file before load to global repo)->git commit -m "first comment"(select files to upload to github repo)->
+## git status->git push -u origin master(push code from git to github repo)->
 
 
 # pytest module test file name should start from---> test_
